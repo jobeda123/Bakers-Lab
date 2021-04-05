@@ -1,0 +1,5 @@
+.cardArea{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    padding: 35px 190px;
+}

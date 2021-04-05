@@ -1,0 +1,27 @@
+.tableAreaManage{
+    width:800px !important;
+    /* border: 1px solid red; */
+}
+
+
+.removeBtn Button{
+    border:none;
+    background-color:none;
+}
+
+.removeBtn Button:hover{
+    cursor: pointer;
+}
+
+
+#manageTitle{
+    color: rgb(65, 129, 65);
+    margin:50px 0px;
+    /* border: 1px solid orange; */
+    text-align: left;
+}
+
+.manageProductArea{
+    padding-top: 50px;
+    padding-left: 50px;
+}

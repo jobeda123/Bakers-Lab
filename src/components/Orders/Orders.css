@@ -1,0 +1,12 @@
+.tableArea{
+    width:1000px !important;
+    margin:50px 250px;
+}
+
+#userOrderTitle{
+    color: rgb(65, 129, 65);
+    margin:50px 250px;
+    /* border: 1px solid orange; */
+    text-align: left;
+}
+

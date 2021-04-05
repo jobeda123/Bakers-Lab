@@ -1,0 +1,40 @@
+.card{
+    border: 1px solid lightgray;
+    border-radius:5px;
+    color: rgb(65, 129, 65);
+    margin:20px;
+    width: 300px;
+    background-color:white;
+    box-shadow: 5px 5px 5px rgb(201, 245, 120);
+    line-height:6px;
+}
+
+.card img{
+    width:95%;
+    height:300px;
+    padding:5px;
+}
+
+
+
+.priceBtn{
+    display:flex;
+    /* border:1px solid black; */
+    padding-bottom: 20px;
+}
+
+.priceBtn button{
+    border-radius: 10px;
+    background-color:rgb(65, 129, 65);
+    color: white;
+    padding:15px;
+    border: 1px solid white;
+    margin:10px;
+    margin-left: 30px;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.priceBtn button:hover{
+    background-color:lightgreen;
+}

@@ -1,0 +1,35 @@
+#userOrderTitle{
+    color: rgb(65, 129, 65);
+    margin:30px 250px;
+    /* border: 1px solid orange; */
+    text-align: left;
+}
+
+.tableArea{
+    width:1000px !important;
+    margin:20px 250px;
+}
+
+.checkoutArea{
+    margin:0px;
+}
+
+
+.checkoutArea button{
+    float:right;
+    background-color: rgb(65, 129, 65);
+    border: 1px solid white;
+    color:white;
+    border-radius:10px;
+    font-size:15px;
+    font-weight: bold;
+    margin-top: 30px;
+    height:50px;
+    width:150px;
+    margin-right: 235px;
+}
+
+.checkoutArea button:hover{
+    background-color:lightgreen;
+    cursor: pointer;
+}

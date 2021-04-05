@@ -1,0 +1,42 @@
+.logInArea{
+    border: 1px solid black;
+}
+
+
+.SignIn{
+    float: center;
+    margin-top:200px;
+    margin-left: 100px;
+    width:400px;
+    height:150px;
+    padding:40px;
+    border: 1px solid lightgray;
+    border-radius:5px;
+    color: rgb(65, 129, 65);
+    background-color:white;
+    box-shadow: 5px 5px 5px rgb(201, 245, 120); 
+}
+
+.SignIn button{
+    margin-left: 10px;
+    background-color: rgb(65, 129, 65);
+    border: 1px solid white;
+    color:white;
+    border-radius:10px;
+    font-size:15px;
+    font-weight: bold;
+    margin-top: 30px;
+    height:50px;
+    width:250px;
+}
+
+
+
+.SignIn button:hover{
+    background-color:lightgreen;
+}
+
+#googleIcon{
+    width:20px;
+    padding-right: 20px;
+}
