@@ -90,7 +90,7 @@ const CheckOut = () => {
         <div className="App">
             <Header />
             <div className="checkoutArea">
-                <h1 id="userOrderTitle">CheckOut</h1>
+                <h1 id="userOrderTitle">Check Out</h1>
                 <TableContainer className="tableArea" component={Paper}>
                     <Table className={classes.table} aria-label="customized table">
                         <TableHead>
